@@ -1,0 +1,15 @@
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\bin\Debug\net10.0\RouteAssignment1.exe
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\bin\Debug\net10.0\RouteAssignment1.deps.json
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\bin\Debug\net10.0\RouteAssignment1.runtimeconfig.json
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\bin\Debug\net10.0\RouteAssignment1.dll
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\bin\Debug\net10.0\RouteAssignment1.pdb
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\obj\Debug\net10.0\RouteAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\obj\Debug\net10.0\RouteAssignment1.AssemblyInfoInputs.cache
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\obj\Debug\net10.0\RouteAssignment1.AssemblyInfo.cs
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\obj\Debug\net10.0\RouteAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\obj\Debug\net10.0\RouteAssignment1.dll
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\obj\Debug\net10.0\refint\RouteAssignment1.dll
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\obj\Debug\net10.0\RouteAssignment1.pdb
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\obj\Debug\net10.0\RouteAssignment1.genruntimeconfig.cache
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\obj\Debug\net10.0\ref\RouteAssignment1.dll
+C:\Users\3B\Documents\Visual Studio 18\RouteCsharpWithoutTopLevel\RouteAssignment1\obj\Debug\net10.0\RouteAss.08DBAD14.Up2Date
